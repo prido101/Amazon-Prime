@@ -1,0 +1,1 @@
+# Cloudfront to cache static data
